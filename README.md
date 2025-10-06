@@ -2,23 +2,6 @@
 
 > Automated machine-learning system to predict whether a loan application will be **approved** or **rejected** using historical and applicant-level features.
 
----
-
-## Table of Contents
-1. [Project Overview](#project-overview)  
-2. [Dataset](#dataset)  
-3. [Problem Definition](#problem-definition)  
-4. [Features / Predictors](#features--predictors)  
-5. [Approach](#approach)  
-6. [Data Preprocessing](#data-preprocessing)  
-7. [Modeling](#modeling)  
-8. [Evaluation](#evaluation)  
-9. [How to Run](#how-to-run)  
-10. [Usage Example](#usage-example)  
-11. [Results & Interpretation](#results--interpretation)  
-12. [Limitations & Ethical Considerations](#limitations--ethical-considerations)  
-13. [Future Work](#future-work)  
-14. [License & Contact](#license--contact)
 
 ---
 
